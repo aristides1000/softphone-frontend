@@ -1,0 +1,29 @@
+.soft-phone {
+  width: 300px;
+  max-width: 300px;
+  margin: 15px auto;
+}
+
+.soft-phone span {
+  display: block;
+  color: #f0f0f0;
+  font-size: 0.75em;
+  font-family: monospace;
+}
+
+.soft-phone .row {
+  margin: 15px 0;
+}
+
+.soft-phone .form-group input {
+  margin-bottom: 0px;
+}
+
+.btn-number {
+  width: 100%;
+  min-width: 60px;
+  max-width: 80px;
+  height: 70px;
+  min-height: 70px;
+  max-height: 70px;
+}
